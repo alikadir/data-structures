@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dtabagcioglu\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\dtabagcioglu\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\dtabagcioglu\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\dtabagcioglu\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dtabagcioglu\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DataStructures.-629102311.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dtabagcioglu\Desktop\PROJECTS\DataStructures" t="IncludeRecursive">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DataStructures.csproj" t="IncludeRecursive" />
+      <e p="DataStructures.sln" t="IncludeFlat" />
+      <e p="LinkedList" t="Include" />
+      <e p="LinkedList.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="DataStructures.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>
